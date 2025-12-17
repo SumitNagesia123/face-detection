@@ -24,8 +24,4 @@ This project was developed as an **academic / learning project** to understand t
 
 ---
 
-## ▶️ How to Run the Project
 
-### 1. Install Dependencies
-```bash
-pip install opencv-python
